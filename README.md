@@ -1,0 +1,2 @@
+# CP1251TOUTF8
+Convert CP1251 (Windows-1251) to UTF-8
